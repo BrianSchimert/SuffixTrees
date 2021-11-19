@@ -1,0 +1,4 @@
+C:\Users\brian\Desktop\CompGenomics\SuffixTree\SuffixTrees\Debug\SuffixTrees.exe
+C:\Users\brian\Desktop\CompGenomics\SuffixTree\SuffixTrees\Debug\SuffixTrees.pdb
+C:\Users\brian\Desktop\thisComputer\CompGenomics\SuffixTree\SuffixTrees\Debug\SuffixTrees.exe
+C:\Users\brian\Desktop\thisComputer\CompGenomics\SuffixTree\SuffixTrees\Debug\SuffixTrees.pdb

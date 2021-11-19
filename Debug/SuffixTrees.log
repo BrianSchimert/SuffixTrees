@@ -1,0 +1,7 @@
+﻿  main.cpp
+  SuffixTree.cpp
+C:\Users\brian\Desktop\thisComputer\CompGenomics\SuffixTree\SuffixTrees\SuffixTree.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brian\Desktop\thisComputer\CompGenomics\SuffixTree\SuffixTrees\SuffixTree.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brian\Desktop\thisComputer\CompGenomics\SuffixTree\SuffixTrees\SuffixTree.cpp(218,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SuffixTrees.vcxproj -> C:\Users\brian\Desktop\thisComputer\CompGenomics\SuffixTree\SuffixTrees\Debug\SuffixTrees.exe
